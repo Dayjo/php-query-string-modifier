@@ -1,4 +1,4 @@
-php-query-string-modifier
+PHP Query String Modifier 
 =========================
 
-Simple PHP class for modifying and managing query strings
+Simple PHP class for modifying and managing query strings.
