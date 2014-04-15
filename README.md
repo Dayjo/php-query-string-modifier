@@ -22,6 +22,7 @@ print_r( $qs->array ); // Array( [foo] => bar )
 $qs = new QueryString('search=my-search-terms&page=4');
 
 $page = $qs->get('page') + 1;
+
 $qs->set('page', $page);
 
 echo $qs->string; // search=my-search-terms&page=5
