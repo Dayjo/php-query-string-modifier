@@ -1,8 +1,6 @@
 PHP Query String Modifier 
 =========================
 
-[![endorse](https://api.coderwall.com/dayjo/endorsecount.png)](https://coderwall.com/dayjo)
-
 Simple PHP class for modifying and managing query strings.
 
 
